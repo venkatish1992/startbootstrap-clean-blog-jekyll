@@ -8,6 +8,9 @@
   <link rel="stylesheet" href="{{"/assets/main.css" | relative_url }}"  media="none" onload="if(media!='all')media='all'">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   {% seo %}
+{% if page.noindex >= 1  %}
+<meta name="robots" content="noindex" />
+{% endif %}
   <style>
         #toc_container {
         background: #f9f9f9 none repeat scroll 0 0;
