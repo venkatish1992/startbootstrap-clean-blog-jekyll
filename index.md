@@ -20,8 +20,8 @@ If you want free vbucks in fortnight, then this piece of information will help y
             <li><a href="#our-generator-for-every-kind">6. Our generator for every kind</a></li>
             <li><a href="#earning-criterias-of-vbucks">7. Earning criteria’s of vbucks</a></li>
             <li><a href="#how-we-work">8. How we work</a></li>
-            <li><a href="#how-will-the-code-reach-you?">9. How will the code reach you?</a></li>
-            <li><a href="#faw">10. FAQ</a></li>
+            <li><a href="#how-will-the-code-reach-you">9. How will the code reach you?</a></li>
+            <li><a href="#faq">10. FAQ</a></li>
             <li><a href="#why-trust-us">11. Why trust us</a></li>
         </ul>
 </div>
