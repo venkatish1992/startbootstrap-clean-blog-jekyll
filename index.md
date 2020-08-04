@@ -9,6 +9,23 @@ description: Getting free vbucks can be a hassle in Fortnite, learn these easy w
 
 If you want free vbucks in fortnight, then this piece of information will help you a lot. A lot of people have searched through the internet for free vbucks generator, but ended up in disappointment. This is because the materials which promised them free vbucks, was actually a bluff.
 
+<div id="toc_container" style="margin-top:5px;">
+    <p class="toc_title">Contents</p>
+        <ul class="toc_list">
+            <li><a href="#how-to-get-free-vbucks">1. How to get free vbucks</a></li>
+            <li><a href="#what-is-fortnight-free-vbucks-generator">2. What is fortnight free vbucks generator</a></li>
+            <li><a href="#how-game-is-enhanced-with-fortnite-v-bucks">3. How game is enhanced with Fortnite v bucks</a></li>
+            <li><a href="#seamless-experience-with-v-bucks">4. Seamless experience with v bucks</a></li>
+            <li><a href="#why-use-our-generator">5. Why use our generator</a></li>
+            <li><a href="#our-generator-for-every-kind">6. Our generator for every kind</a></li>
+            <li><a href="#earning-criterias-of-vbucks">7. Earning criteria’s of vbucks</a></li>
+            <li><a href="#how-we-work">8. How we work</a></li>
+            <li><a href="#how-will-the-code-reach-you?">9. How will the code reach you?</a></li>
+            <li><a href="#faw">10. FAQ</a></li>
+            <li><a href="#why-trust-us">11. Why trust us</a></li>
+        </ul>
+</div>
+
 We understand the value of your time, and this is the reason, we have come up with various methods which help you get free vbucks.  Some of the highlights of this article will be 
 
 * What is fortnight free vbucks generator?
